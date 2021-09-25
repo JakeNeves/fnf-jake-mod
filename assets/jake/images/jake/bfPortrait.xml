@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPortrait.png">
+	<!-- Created with My Hands -->
+	<!-- aaaaaaaaaaaaaaaaaaaaa -->
+	<SubTexture name="Boyfriend portrait enter instance 10000" x="0" y="0" width="405" height="392"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TextureAtlas>
+    <SubTexture name="Jake Idle10000" x="2" y="2" width="528" height="952"/>
+    <SubTexture name="Jake Idle10001" x="532" y="2" width="528" height="952"/>
+    <SubTexture name="Jake Idle10002" x="1062" y="2" width="601" height="952"/>
+    <SubTexture name="Jake Right10000" x="2" y="2885" width="545" height="921"/>
+    <SubTexture name="Jake Up10000" x="2" y="1885" width="692" height="996"/>
+    <SubTexture name="Jake Left10000" x="2" y="958" width="830" height="923"/>
+    <SubTexture name="Jake Down10000" x="836" y="958" width="528" height="921"/>
+</TextureAtlas>

@@ -28,7 +28,7 @@ class StoryMenuState extends MusicBeatState
 	{
 		return [
 			['Tutorial'],
-			['Self-Insert']
+			['Self-Insert', 'Jake', 'Psycopathic']
 		];
 	}
 	var curDifficulty:Int = 1;

@@ -30,6 +30,19 @@ class Character extends FlxSprite
 
 		switch (curCharacter)
 		{
+			case 'jake-angry':
+				tex = Paths.getSparrowAtlas('jake-angry','shared',true);
+				frames = tex;
+				animation.addByPrefix('idle', 'Jake Idle', 24, false);
+				animation.addByPrefix('singUP', 'Jake Up', 24, false);
+				animation.addByPrefix('singRIGHT', 'Jake Right', 24, false);
+				animation.addByPrefix('singDOWN', 'Jake Down', 24, false);
+				animation.addByPrefix('singLEFT', 'Jake Left', 24, false);
+
+				loadOffsetFile(curCharacter);
+
+				playAnim('idle');
+
 			case 'jake':
 				tex = Paths.getSparrowAtlas('jake','shared',true);
 				frames = tex;

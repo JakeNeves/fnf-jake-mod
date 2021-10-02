@@ -62,6 +62,38 @@ class Stage
 
 				}
 
+				case 'jake-tainted':
+				{
+					camZoom = 0.6;
+						curStage = 'jake-tainted';
+						var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('jake-tainted/sky', 'jake'));
+						bg.antialiasing = FlxG.save.data.antialiasing;
+						bg.scrollFactor.set(0.9, 0.9);
+						bg.active = false;
+						swagBacks['bg'] = bg;
+                        toAdd.push(bg);
+
+						var city:FlxSprite = new FlxSprite(-500, -300).loadGraphic(Paths.image('jake-tainted/city', 'jake'));
+						city.setGraphicSize(Std.int(city.width * 0.9));
+						city.updateHitbox();
+						city.antialiasing = FlxG.save.data.antialiasing;
+						city.scrollFactor.set(1.3, 1.3);
+						city.active = false;
+
+						swagBacks['city'] = city;
+                        toAdd.push(city);
+
+						var street:FlxSprite = new FlxSprite(-650, 600).loadGraphic(Paths.image('jake-tainted/street', 'jake'));
+						street.setGraphicSize(Std.int(street.width * 1.1));
+						street.updateHitbox();
+						street.antialiasing = FlxG.save.data.antialiasing;
+						street.scrollFactor.set(0.9, 0.9);
+						street.active = false;
+						swagBacks['street'] = street;
+                        toAdd.push(street);
+
+				}
+
             case 'halloween':
 					{
 						halloweenLevel = true;

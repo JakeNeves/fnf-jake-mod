@@ -1,2 +1,4 @@
 Tutorial:gf:0
 Self Insert:jake:1
+Jake:jake:1
+Psycopathic:jake-angry:1

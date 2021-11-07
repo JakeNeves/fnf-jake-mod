@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Woah, who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That sounds like a very interesting name you have my friend..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I know, it's strange how someone like me would have a name like this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So what?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jake",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "Let me think here..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jake",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "Why are you and your girlfriend here anyway?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My girlfriend and I are hare, because I saw you we're on tour and had no idea if we even knew each other or not..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jake",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": "Oh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I do have some songs I've written!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Great!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's hear them..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jake",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay, here we go!"
+		}
+	]
+}

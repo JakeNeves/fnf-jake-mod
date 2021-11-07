@@ -1,2 +1,8 @@
 stage
-jake-nation
+spooky
+philly
+limo
+mall
+mallEvil
+school
+schoolEvil

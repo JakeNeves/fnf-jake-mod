@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jakeDEAD.png">
+	<!-- Created with My Hands-->
+	<!-- aaaaaaaaaaaaaaaaaaaa -->
+    <SubTexture name="Jake Dies10000" x="2" y="2" width="528" height="952"/>
+    <SubTexture name="Jake Dies10001" x="532" y="2" width="528" height="952"/>
+    <SubTexture name="Jake Dies10002" x="1062" y="2" width="528" height="952"/>
+    <SubTexture name="Jake Dies10003" x="1592" y="2" width="528" height="952"/>
+    <SubTexture name="Jake Dead10000" x="2" y="956" width="528" height="952"/>
+    <SubTexture name="Jake Dead10001" x="532" y="956" width="528" height="952"/>
+    <SubTexture name="Jake Dead10002" x="1062" y="956" width="528" height="952"/>
+    <SubTexture name="Jake Dead Confirm10000" x="1592" y="2" width="528" height="952"/>
+</TextureAtlas>

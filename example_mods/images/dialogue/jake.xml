@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TextureAtlas>
+    <SubTexture name="Jake Idle Happy10000" x="2" y="2" width="528" height="595"/>
+    <SubTexture name="Jake Happy10000" x="2" y="2" width="528" height="595"/>
+    <SubTexture name="Jake Happy10001" x="532" y="2" width="528" height="595"/>
+    <SubTexture name="Jake Happy10002" x="1062" y="2" width="528" height="595"/>
+    <SubTexture name="Jake Idle Unamused10000" x="2" y="601" width="528" height="595"/>
+    <SubTexture name="Jake Unamused10000" x="2" y="601" width="528" height="595"/>
+    <SubTexture name="Jake Unamused10001" x="532" y="601" width="528" height="595"/>
+    <SubTexture name="Jake Unamused10002" x="1062" y="601" width="528" height="595"/>
+    <SubTexture name="Jake Idle Angry10000" x="2" y="1200" width="449" height="651"/>
+    <SubTexture name="Jake Angry10000" x="2" y="1200" width="449" height="651"/>
+    <SubTexture name="Jake Angry10001" x="453" y="1200" width="449" height="651"/>
+    <SubTexture name="Jake Angry10002" x="904" y="1200" width="449" height="651"/>
+</TextureAtlas>

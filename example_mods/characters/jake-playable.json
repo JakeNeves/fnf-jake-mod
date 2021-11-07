@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Jake Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jake Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jake Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-29,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jake Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-48,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jake Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Jake Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Jake Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Jake Miss Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Jake Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "Jake Dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 12,
+			"name": "Jake Dead",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jake-playable",
+	"position": [
+		0,
+		-200
+	],
+	"healthicon": "jake",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		71,
+		163
+	],
+	"camera_position": [
+		-90,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

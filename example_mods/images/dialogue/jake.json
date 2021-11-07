@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		80,
+		80
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "Jake Happy",
+			"idle_name": "Jake Idle Happy"
+		},
+		{
+			"loop_name": "Jake Unamused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Jake Idle Unamused",
+			"anim": "unamused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Jake Angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Jake Idle Angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "jake"
+}
